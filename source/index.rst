@@ -7,16 +7,9 @@ Golang 学习笔记
 ===============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
+   string/index
    elasticsearch/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   redis/index
+   mongodb/index
